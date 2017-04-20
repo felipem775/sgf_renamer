@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Author: felipem775
-# Version: 0.1
+# Version: 0.2
 
 import sys
 import os
